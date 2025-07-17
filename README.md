@@ -3,7 +3,7 @@
 Simple API for fetching github user's repositories \
 that are not froks and getting all of that repo branches
 
-## How to use
+# How to use
 
 ### Request
 ```
